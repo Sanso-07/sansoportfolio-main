@@ -1,0 +1,95 @@
+nav.navbar.navbar-expand-md.bsb-navbar.bsb-navbar-hover.bsb-navbar-caret {
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+   }
+   .navbar-expand-md .offcanvas .offcanvas-body {
+    flex-grow: 0;
+    padding: 0px;
+    overflow-y: visible;
+    font-size: 16px;
+    font-weight: 600;
+}
+   .navbar .container{
+    background-color: white;
+   }
+   .navbar-nav .nav-link {
+       cursor: pointer;
+       color: black;
+       font-family: "Poppins", sans-serif;
+   }
+   .portfoliologo{
+    height: 59px;
+    width: 120px;
+   }
+   
+   @media (max-width: 767.98px) {
+    .navbar.fixed-top {
+      position: static;
+    }
+  }
+  
+  /* Style for the active nav link */
+  .navbar-nav .nav-link.active {
+    color:#1836B2 !important; /* Change this to the color you prefer */
+    font-weight: bold; /* Optional: To make the text bold */
+  }
+  
+  /* Optionally, change the hover color for non-active links */
+  .navbar-nav .nav-link:hover {
+    color:#1836B2 !important; /* Change this to your hover color */
+  }
+  
+    /* for all social containers*/
+    .socialContainer {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+  
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      transition-duration: .3s;
+    }
+    /* instagram*/
+    .containerOne:hover {
+      background-color: #d62976;
+      transition-duration: .3s;
+    }
+  
+    /* linkdin*/
+    .containerThree:hover {
+      background-color: #0072b1;
+      transition-duration: .3s;
+    }
+    /* Whatsapp*/
+    .containerFour:hover {
+      background-color: #128C7E;
+      transition-duration: .3s;
+    }
+    /* Gmail */
+  .containerTwo:hover {
+      background-color: #EA4335; /* Gmail red */
+      transition-duration: .3s;
+    }
+    
+    
+    .socialContainer:active {
+      transform: scale(0.9);
+      transition-duration: .3s;
+    }
+    
+    .socialSvg {
+      width: 17px;
+    }
+    
+    .socialSvg path {
+      fill:black;
+    }
+    
+    .socialContainer:hover .socialSvg {
+      animation: slide-in-top 0.3s both;
+    }
+     
+     
+     
