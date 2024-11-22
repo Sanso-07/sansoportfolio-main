@@ -20,6 +20,7 @@ nav.navbar.navbar-expand-md.bsb-navbar.bsb-navbar-hover.bsb-navbar-caret {
    .portfoliologo{
     height: 59px;
     width: 120px;
+    cursor: pointer;
    }
    
    @media (max-width: 767.98px) {

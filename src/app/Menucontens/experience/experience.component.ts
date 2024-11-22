@@ -19,7 +19,7 @@ export class ExperienceComponent {
  experience1 = {
    year:'FEB 2022-OCT 2024',
    company: 'CKS Solutions, Nagercoil',
-   title: 'Website Developer',
+   title: 'FullStack Developer',
    description: 'Designed and coded new software or modified existing software to add new features. Developed mobile applications using Flutter, ensuring seamless performance across different platforms. Collaborated with cross-functional teams to ensure high-quality application development. Conducted testing and debugging to optimize mobile applications.'
  };
 
