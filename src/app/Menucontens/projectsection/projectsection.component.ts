@@ -17,19 +17,19 @@ export class ProjectsectionComponent {
     {
       icon: 'bi bi-eyeglasses',
       title: 'CKS SITE',
-      description: 'A job portal connects job seekers with employers by allowing users to search and apply for jobs and find candidates. It streamlines the job search and hiring process with filters for location, industry, and job type.',
+      description: 'A dynamic job portal that connects job seekers with employers, enabling users to search and apply for jobs while allowing employers to find suitable candidates. The platform streamlines the hiring process with advanced filters for location, industry, and job type, enhancing the efficiency of job searches and recruitment.',
       link: 'https://cks.ckssolutions.co.in/' 
     },
     {
       icon: 'bi bi-eyeglasses',
       title: 'CAREERIN',
-      description: 'A course purchase website lets users browse, buy, and access online courses in various subjects. It provides course details and pricing, giving users instant access to learning materials after purchase.',
+      description: 'An intuitive course purchase platform that allows users to browse, purchase, and access online courses across various subjects. The website provides detailed course information and pricing, enabling users to instantly access learning materials upon purchase, streamlining the learning experience.',
       link: 'https://careerin.co.in/'
     },
     {
       icon: 'bi bi-eyeglasses',
       title: 'EXAMPORTAL',
-      description: 'Developed an advanced online exam portal featuring exam setup and management functionality.implemeted instituation onboarding,question database maintenance,and security enhancements for the portal.',
+      description: 'A robust online exam portal with features for exam setup, management, and seamless integration of institution onboarding. Built a comprehensive question database and implemented advanced security measures to safeguard the platform. The portal offers an efficient environment for conducting exams and generating results, enhancing the overall experience for candidates.',
       link: 'https://examportal-careerin.ckssolutions.co.in/login' 
     },
     // Add more projects as needed

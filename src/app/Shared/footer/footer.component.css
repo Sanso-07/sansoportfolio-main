@@ -91,5 +91,14 @@ img.mb-4.logo-inverse {
       opacity: 1;
     }
   }
+
+  .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-family: emoji;
+}
+.copy{
+  text-align: center;
+}
   
   

@@ -67,6 +67,7 @@
 .section-title p {
   margin: 0;
   font-size: 18px;
+  font-family: auto;
 }
 .contact-form .send {
     margin-top: 20px;

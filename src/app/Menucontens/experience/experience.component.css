@@ -21,6 +21,7 @@
 .section-title p {
     margin: 0;
     font-size: 18px;
+    font-family: auto;
 }
 
 /* Resume Box
@@ -95,6 +96,7 @@
 }
 .resume-box p {
   margin: 0;
+  font-family: math;
 }
 
 .resume-box li:after {

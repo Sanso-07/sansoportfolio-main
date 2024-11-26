@@ -13,7 +13,7 @@ export class ExperienceComponent {
 
  // Section title and description
  sectionTitle = 'Experience';
- sectionDescription = 'I design and develop services for customers of all sizes, specializing in creating stylish, modern websites';
+ sectionDescription = 'Bringing Over a Year Of Experience Across Multiple Projects, I Have Suceessfully Contributed to Developing and Optimizing Solutions that drive Results.';
 
  // Experience entries
  experience1 = {
@@ -34,7 +34,7 @@ export class ExperienceComponent {
    year:'2023',
    company: 'CKS Solutions, Nagercoil',
    title: 'FullStack Developer',
-   description: 'Designed and coded new software or modified existing software to add new features. Developed mobile applications using Flutter, ensuring seamless performance across different platforms. Collaborated with cross-functional teams to ensure high-quality application development. Conducted testing and debugging to optimize mobile applications.'
+   description: 'Designed and coded new software or modified existing software to add new features. Developed mobile applications, ensuring seamless performance across different platforms. Collaborated with cross-functional teams to ensure high-quality application development. Conducted testing and debugging to optimize mobile applications.'
  };
 
  experience4 = {
@@ -46,7 +46,7 @@ export class ExperienceComponent {
  downloadCV() {
    const link = document.createElement('a');
    link.setAttribute('target', '_blank');
-   link.setAttribute('href', 'assets/Document/Sanso Sowmi_CV.pdf');
+   link.setAttribute('href', 'assets/Document/Sanso_CV.pdf');
    link.setAttribute('download', 'SANSO SOWMI Resume.pdf');
    document.body.appendChild(link);
    link.click();
