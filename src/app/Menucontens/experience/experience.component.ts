@@ -17,7 +17,7 @@ export class ExperienceComponent {
 
  // Experience entries
  experience1 = {
-   year:'FEB 2022-OCT 2024',
+   year:'OCT 2022-OCT 2024',
    company: 'CKS Solutions, Nagercoil',
    title: 'FullStack Developer',
    description: 'Designed and coded new software or modified existing software to add new features. Developed mobile applications using Flutter, ensuring seamless performance across different platforms. Collaborated with cross-functional teams to ensure high-quality application development. Conducted testing and debugging to optimize mobile applications.'
@@ -38,9 +38,9 @@ export class ExperienceComponent {
  };
 
  experience4 = {
-   year:'2022-2023',
+   year:'DEC 2020-OCT 2022',
    company: 'Beta Monks Technology Pvt Ltd, Chennai',
-   title: 'Junior Software Developer',
+   title: 'Junior IT Support',
    description: 'Skilled in user authentication, 3D Secure (E-Commerce) ACS applications, and OTP page design/customization. Experienced in bug detection, SQL database management, and web applications within the banking domain.'
  };
  downloadCV() {
