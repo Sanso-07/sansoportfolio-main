@@ -46,7 +46,7 @@ export class ExperienceComponent {
  downloadCV() {
    const link = document.createElement('a');
    link.setAttribute('target', '_blank');
-   link.setAttribute('href', 'assets/Document/Sanso_CV.pdf');
+   link.setAttribute('href', 'assets/Document/Sanso_CV1.pdf');
    link.setAttribute('download', 'SANSO SOWMI Resume.pdf');
    document.body.appendChild(link);
    link.click();
