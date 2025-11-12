@@ -43,10 +43,17 @@ export class ExperienceComponent {
    title: 'Junior Software Developer',
    description: 'Proficient in managing user authentication and 3D Secure (E-Commerce) applications, with hands-on expertise in designing and customizing OTP pages. Experienced in identifying and resolving bugs, managing SQL databases, and optimizing web applications within the banking domain. Demonstrated ability to deliver reliable solutions that enhance system performance and user experience.'
  };
+
+ experience5 = {
+  year:'FEB 2025-PRESENT',
+  company: 'NYRV, Dubai',
+  title: 'Web Developer',
+  description: 'I developed and managed the complete Shopify websites for NYRV and Moheat, handling everything from design to deployment. I ensured all product images have a consistent look, optimized content and meta data for better search visibility, and maintained a trendy, professional brand presentation. I also improved user experience with a clean, easy-to-navigate interface.'
+};
  downloadCV() {
    const link = document.createElement('a');
    link.setAttribute('target', '_blank');
-   link.setAttribute('href', 'assets/Document/Sanso_CV.pdf');
+   link.setAttribute('href', 'assets/Document/Sanso cv.pdf');
    link.setAttribute('download', 'SANSO SOWMI Resume.pdf');
    document.body.appendChild(link);
    link.click();

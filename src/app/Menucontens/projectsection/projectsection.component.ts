@@ -32,6 +32,11 @@ export class ProjectsectionComponent {
       description: 'A robust online exam portal with features for exam setup, management, and seamless integration of institution onboarding. Built a comprehensive question database and implemented advanced security measures to safeguard the platform. The portal offers an efficient environment for conducting exams and generating results, enhancing the overall experience for candidates.',
       link: 'https://examportal-careerin.ckssolutions.co.in/login' 
     },
-    // Add more projects as needed
+    {
+      icon: 'bi bi-eyeglasses',
+      title: 'NYRV',
+      description: 'A robust online exam portal with features for exam setup, management, and seamless integration of institution onboarding. Built a comprehensive question database and implemented advanced security measures to safeguard the platform. The portal offers an efficient environment for conducting exams and generating results, enhancing the overall experience for candidates.',
+      link: 'https://nyrv.co/' 
+    },
   ];
 }

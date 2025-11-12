@@ -16,6 +16,11 @@ export class SkillsComponent {
     { title: 'Bootstrap', description: 'Bootstrap is a front-end framework for creating responsive and mobile-friendly websites.', image: '../../../assets/image/techimage/Bootstraplogo.png' },
     { title: 'Angular', description: 'Angular is a popular open-source web application framework developed by Google.', image: '../../../assets/image/techimage/Angularlogo.png' },
     { title: 'ASP.NET Core', description: 'ASP.NET Core is a cross-platform framework for building modern web applications and services.', image: '../../../assets/image/techimage/Asp.netlogo.png' },
-    { title: 'SQL', description: 'SQL is a standard language used for managing and querying relational databases.', image: '../../../assets/image/techimage/sqllogo.png' }
+    { title: 'SQL', description: 'SQL is a standard language used for managing and querying relational databases.', image: '../../../assets/image/techimage/sqllogo.png' },
+    { 
+      title: 'Shopify', 
+      description: 'Shopify is a popular eCommerce platform used to create, manage, and optimize online stores.', 
+      image: '../../../assets/image/techimage/Shopify.webp' 
+    }
   ];
 }
