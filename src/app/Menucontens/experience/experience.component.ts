@@ -47,8 +47,8 @@ export class ExperienceComponent {
  experience5 = {
   year:'FEB 2025-PRESENT',
   company: 'NYRV, Dubai',
-  title: 'Web Developer',
-  description: 'I developed and managed the complete Shopify websites for NYRV and Moheat, handling everything from design to deployment. I ensured all product images have a consistent look, optimized content and meta data for better search visibility, and maintained a trendy, professional brand presentation. I also improved user experience with a clean, easy-to-navigate interface.'
+  title: 'Web And Digital Marketing Executive',
+  description: 'Developed and managed Shopify websites for NYRV and Moheat, from design to deployment. Optimized content, images, and metadata for SEO, improved UX/UI, and executed digital marketing activities including analytics tracking, Meta Pixel setup, and paid advertising via Meta and Google Ads.'
 };
  downloadCV() {
    const link = document.createElement('a');
